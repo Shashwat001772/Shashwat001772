@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=red&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=shashwatsingh&label=Profile%20Views&color=red&style=flat"/>
 </p>
 
 ---
@@ -41,12 +41,12 @@ Building software with passion, logic, and creativity.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=highcontrast" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shashwatsingh&show_icons=true&theme=radical" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatsingh&theme=highcontrast" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=redical"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashwatsingh&theme=redical"/>
 </p>
 
 ---
@@ -54,7 +54,7 @@ Building software with passion, logic, and creativity.
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/shashwatsingh/shashwatsingh/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -67,6 +67,5 @@ Building software with passion, logic, and creativity.
 ---
 
 <p align="center">
-🔥 Thanks for visiting my profile!
+🔥 Keep Building. Keep Learning. Keep Growing.
 </p>
-
