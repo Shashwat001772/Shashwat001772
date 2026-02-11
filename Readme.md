@@ -69,3 +69,7 @@ Building software with passion, logic, and creativity.
 <p align="center">
 🔥 Keep Building. Keep Learning. Keep Growing.
 </p>
+<p align="center">
+<img src="https://github.com/Shashwat001772/Shashwat001772/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
