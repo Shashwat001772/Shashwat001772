@@ -1,92 +1,124 @@
-# Hi 👋, I'm Shashwat Singh
+<h1 align="center">Hey 👋 I'm Shashwat Singh</h1>
+<h3 align="center">Java Backend • Full Stack Explorer • Computer Vision Enthusiast</h3>
 
-🎓 Bachelor of Engineering (Information Science) | Bengaluru  
-💻 Web Developer | Java Backend | Full Stack Enthusiast  
-🤖 Computer Vision & CNN Explorer  
-
----
-
-## 🚀 About Me
-
-- Web Developer with hands-on experience in **Java backend** and **full-stack workflows**
-- Strong foundation in **DSA, OOP, and Problem Solving**
-- Project Trainee at **Hitachi (2025)** – worked on CNN-based Bird Species Identification
-- Passionate about building **secure, scalable, user-centric applications**
-- Love learning new technologies and building real-world projects
+<p align="center">
+🚀 Turning ideas into code | 📚 Always learning | 🤖 Building intelligent systems
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Who Am I?
 
-### 👨‍💻 Programming
-- Java | Python | SQL
+I’m a **Computer Science Engineering student (Information Science)** from Bengaluru who loves transforming
+real-world problems into working software.
 
-### 🌐 Web
-- HTML5 | CSS3 | JavaScript  
-- React.js | Next.js
+I specialize in **Java backend development**, enjoy building **full-stack web applications**, and explore
+**Computer Vision & CNN models** to understand how machines see the world.
 
-### ⚙ Backend & Database
-- Java Servlets | JDBC | REST APIs  
-- MySQL
+I believe in:
 
-### 🤖 AI / Computer Vision
-- CNN  
-- Image Classification  
-- Computer Vision
+✔ Writing clean code  
+✔ Building meaningful projects  
+✔ Learning continuously  
+✔ Creating impact  
+
+---
+
+## 🧑‍💻 What I Actually Do
+
+- Design backend systems using **Java, JDBC & REST APIs**
+- Build interactive UIs with **React & Next.js**
+- Train CNN models for **image classification**
+- Apply **DSA + OOP** to solve problems efficiently
+- Collaborate in team environments (Industry + Academic projects)
+
+---
+
+## 🛠 My Technical Universe
+
+### 💻 Languages
+Java • Python • SQL  
+
+### 🌐 Web Development
+HTML • CSS • JavaScript  
+React.js • Next.js  
+
+### ⚙ Backend Engineering
+Java Servlets • JDBC • REST APIs  
+MySQL  
+
+### 🤖 Artificial Intelligence
+CNN • Computer Vision • Image Classification  
 
 ### 🔧 Tools
-- Git | GitHub | VS Code
+Git • GitHub • VS Code  
 
 ---
 
-## 📌 Projects
+## 🚀 Featured Work
 
-### 🏥 Hospital Database Management System
-**Tech:** Java, Servlets, JDBC, JavaScript, MySQL  
-- Built Java-based web app for hospital operations  
-- Modules for patient records, doctor scheduling & appointments  
-- Secure database connectivity using JDBC  
+### 🏥 Hospital Database Management System  
+**Java | Servlets | JDBC | MySQL**
 
----
-
-### 👁 Third-Eye – Visual Assistance System
-**Tech:** Computer Vision, JavaScript, CSS  
-- Camera-based assistance system for visually impaired users  
-- Implemented obstacle detection  
-- Real-time alerts for safer navigation  
+- Designed Java-based hospital management platform  
+- Implemented patient records, doctor scheduling & appointments  
+- Ensured secure database connectivity  
+- Focused on scalability and data integrity  
 
 ---
 
-### 🐦 Bird Species Identification using CNN (Hitachi)
-- CNN-based image classification system  
-- Real-world dataset curation & preprocessing  
-- Model training and performance validation  
+### 👁 Third-Eye – Visual Assistance System  
+**Computer Vision | JavaScript | CSS**
+
+- Built real-time obstacle detection system  
+- Assisted visually impaired users through camera-based alerts  
+- Improved navigation safety using computer vision  
 
 ---
 
-## 🏆 Achievements
+### 🐦 Bird Species Identification (Hitachi – Project Trainee 2025)
 
-- Winner – AI Image Development Event (Saptharang)  
-- Winner – Fresher’s Cup Cricket Tournament  
-- Runner-up – T5 Flames Cricket Tournament  
-- Winner – Quiz Competition (Vigyaanrang)
+- Developed CNN-powered image classifier  
+- Managed real-world datasets  
+- Performed preprocessing, training & evaluation  
+- Worked in industry-guided environment  
+
+---
+
+## 🏆 Highlights
+
+🏅 Winner – AI Image Development Event (Saptharang)  
+🏏 Winner – Fresher’s Cup Cricket Tournament  
+🥈 Runner-up – T5 Flames Cricket Tournament  
+🧠 Winner – Quiz Competition (Vigyaanrang)  
 
 ---
 
 ## 📜 Certifications
 
-- Oracle Cloud Infrastructure Generative AI Professional  
-- Programming in Java – NPTEL  
-- Introduction to Cloud – IBM  
-- UI-UX Project Management – Learntube.ai  
+✔ Oracle Cloud Infrastructure Generative AI Professional  
+✔ Programming in Java – NPTEL  
+✔ Introduction to Cloud – IBM  
+✔ UI-UX Project Management – Learntube.ai  
 
 ---
 
-## 📫 Connect With Me
+## 🌱 Currently Learning
 
-- 📧 Email: singhshashwat1111@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/shashwat10  
+- Advanced Java Backend  
+- System Design Basics  
+- Cloud Technologies  
+- Placement-focused DSA  
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+## 🤝 Let’s Connect
+
+📧 Email: singhshashwat1111@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/shashwat10  
+
+---
+
+<p align="center">
+⭐ If you like my work, feel free to explore my repositories and connect with me!
+</p>
