@@ -1,124 +1,83 @@
-<h1 align="center">Hey 👋 I'm Shashwat Singh</h1>
-<h3 align="center">Java Backend • Full Stack Explorer • Computer Vision Enthusiast</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Shashwat%20Singh&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Full+Stack+Explorer;Computer+Vision+Enthusiast;Turning+Ideas+Into+Code"/>
+</h3>
+
+---
+
+## 🧠 About Me
+
+🎓 Information Science Engineering Student from Bengaluru  
+💻 Java Backend + Full Stack Developer  
+🤖 Computer Vision & CNN Explorer  
+
+I love building **real-world applications**, solving problems using **DSA + OOP**, and exploring how AI sees the world.
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-🚀 Turning ideas into code | 📚 Always learning | 🤖 Building intelligent systems
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nextjs,mysql,git,github,vscode&theme=light"/>
 </p>
 
 ---
 
-## 🧠 Who Am I?
-
-I’m a **Computer Science Engineering student (Information Science)** from Bengaluru who loves transforming
-real-world problems into working software.
-
-I specialize in **Java backend development**, enjoy building **full-stack web applications**, and explore
-**Computer Vision & CNN models** to understand how machines see the world.
-
-I believe in:
-
-✔ Writing clean code  
-✔ Building meaningful projects  
-✔ Learning continuously  
-✔ Creating impact  
-
----
-
-## 🧑‍💻 What I Actually Do
-
-- Design backend systems using **Java, JDBC & REST APIs**
-- Build interactive UIs with **React & Next.js**
-- Train CNN models for **image classification**
-- Apply **DSA + OOP** to solve problems efficiently
-- Collaborate in team environments (Industry + Academic projects)
-
----
-
-## 🛠 My Technical Universe
-
-### 💻 Languages
-Java • Python • SQL  
-
-### 🌐 Web Development
-HTML • CSS • JavaScript  
-React.js • Next.js  
-
-### ⚙ Backend Engineering
-Java Servlets • JDBC • REST APIs  
-MySQL  
-
-### 🤖 Artificial Intelligence
-CNN • Computer Vision • Image Classification  
-
-### 🔧 Tools
-Git • GitHub • VS Code  
-
----
-
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
 ### 🏥 Hospital Database Management System  
-**Java | Servlets | JDBC | MySQL**
-
-- Designed Java-based hospital management platform  
-- Implemented patient records, doctor scheduling & appointments  
-- Ensured secure database connectivity  
-- Focused on scalability and data integrity  
-
----
+Java • Servlets • JDBC • MySQL  
 
 ### 👁 Third-Eye – Visual Assistance System  
-**Computer Vision | JavaScript | CSS**
+Computer Vision • JavaScript • CSS  
 
-- Built real-time obstacle detection system  
-- Assisted visually impaired users through camera-based alerts  
-- Improved navigation safety using computer vision  
-
----
-
-### 🐦 Bird Species Identification (Hitachi – Project Trainee 2025)
-
-- Developed CNN-powered image classifier  
-- Managed real-world datasets  
-- Performed preprocessing, training & evaluation  
-- Worked in industry-guided environment  
+### 🐦 Bird Species Identification (Hitachi – 2025)  
+CNN • Image Classification  
 
 ---
 
-## 🏆 Highlights
+## 📊 GitHub Stats
 
-🏅 Winner – AI Image Development Event (Saptharang)  
-🏏 Winner – Fresher’s Cup Cricket Tournament  
-🥈 Runner-up – T5 Flames Cricket Tournament  
-🧠 Winner – Quiz Competition (Vigyaanrang)  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
-## 📜 Certifications
+## 🏆 Achievements
 
-✔ Oracle Cloud Infrastructure Generative AI Professional  
-✔ Programming in Java – NPTEL  
-✔ Introduction to Cloud – IBM  
-✔ UI-UX Project Management – Learntube.ai  
+🏅 Winner – AI Image Development Event  
+🏏 Fresher’s Cup Cricket Champion  
+🥈 Runner-up – T5 Flames Tournament  
+🧠 Quiz Competition Winner  
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Java Backend  
-- System Design Basics  
-- Cloud Technologies  
-- Placement-focused DSA  
+Advanced Java Backend  
+System Design  
+Cloud Computing  
+Placement DSA  
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 
-📧 Email: singhshashwat1111@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/shashwat10  
+📧 singhshashwat1111@gmail.com  
+💼 https://linkedin.com/in/shashwat10  
 
 ---
 
 <p align="center">
-⭐ If you like my work, feel free to explore my repositories and connect with me!
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue"/>
 </p>
+
+<p align="center">
+⭐ Feel free to explore my repositories and connect with me!
+</p>
+
