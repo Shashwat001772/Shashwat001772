@@ -1,24 +1,28 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Shashwat%20Singh&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=220&section=header&text=Shashwat%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Full+Stack+Explorer;Computer+Vision+Enthusiast;Turning+Ideas+Into+Code"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Full+Stack+Explorer;Computer+Vision+Enthusiast;Turning+Ideas+Into+Code;Learning+Every+Day"/>
 </h3>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6366f1&style=flat"/>
+</p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Who Am I?
 
 🎓 Information Science Engineering Student from Bengaluru  
 💻 Java Backend + Full Stack Developer  
 🤖 Computer Vision & CNN Explorer  
 
-I love building **real-world applications**, solving problems using **DSA + OOP**, and exploring how AI sees the world.
+I build **real-world applications**, solve problems using **DSA + OOP**, and explore how machines understand images.
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ Tech Universe
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nextjs,mysql,git,github,vscode&theme=light"/>
@@ -26,47 +30,46 @@ I love building **real-world applications**, solving problems using **DSA + OOP*
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-### 🏥 Hospital Database Management System  
-Java • Servlets • JDBC • MySQL  
-
-### 👁 Third-Eye – Visual Assistance System  
-Computer Vision • JavaScript • CSS  
-
-### 🐦 Bird Species Identification (Hitachi – 2025)  
-CNN • Image Classification  
+🏥 Hospital Database Management System  
+👁 Third-Eye – Visual Assistance System  
+🐦 Bird Species Identification (Hitachi – 2025)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="170"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+</p>
+
 ---
 
 ## 🏆 Achievements
 
-🏅 Winner – AI Image Development Event  
-🏏 Fresher’s Cup Cricket Champion  
-🥈 Runner-up – T5 Flames Tournament  
+🏅 AI Image Development Winner  
+🏏 Fresher’s Cup Champion  
+🥈 T5 Flames Runner-up  
 🧠 Quiz Competition Winner  
 
 ---
 
 ## 🌱 Currently Learning
 
-Advanced Java Backend  
+Advanced Java  
 System Design  
 Cloud Computing  
 Placement DSA  
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let’s Connect
 
 📧 singhshashwat1111@gmail.com  
 💼 https://linkedin.com/in/shashwat10  
@@ -74,10 +77,9 @@ Placement DSA
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue"/>
+<img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 <p align="center">
-⭐ Feel free to explore my repositories and connect with me!
+⭐ Thanks for visiting — explore my repositories!
 </p>
-
