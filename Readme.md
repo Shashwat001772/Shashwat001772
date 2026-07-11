@@ -1,75 +1,31 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=220&section=header&text=Shashwat%20Singh&fontSize=40&fontColor=ff0000&animation=fadeIn"/>
-</p>
+<!--
+  This is your PROFILE README. It goes in a repo named exactly after your
+  username (e.g. github.com/OCTOCAT/OCTOCAT) so GitHub shows it on your profile.
+  Replace the ALL-CAPS placeholders. Widths 370/490 keep the portrait and info
+  card the same height -- if you change the info card's H, re-match these.
+-->
+<div align="center">
 
-<h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=ff0000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Full+Stack+Explorer;Computer+Vision+Enthusiast;Turning+Ideas+Into+Code;Always+Learning"/>
-</h3>
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
+</tr>
+</table>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=shashwatsingh&label=Profile%20Views&color=red&style=flat"/>
-</p>
+## Shashwat
 
----
+**Software Engineer · Full-Stack Developer**
 
-## 🧠 About Me
+<!-- Add your real links below and uncomment -- placeholders removed since none were provided
+[![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://YOURSITE.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOURHANDLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURHANDLE)
+-->
+[![GitHub](https://img.shields.io/badge/GitHub-Shashwat001772-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashwat001772)
 
-🎓 Information Science Engineering Student | Bengaluru  
-💻 Java Backend + Full Stack Developer  
-🤖 Computer Vision & CNN Explorer  
+<br>
 
-Building software with passion, logic, and creativity.
+<!-- animated contribution graph, refreshed daily by the workflow -->
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
 
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nextjs,mysql,git,github,vscode&theme=dark"/>
-</p>
-
----
-
-## 🚀 Projects
-
-🏥 Hospital Database Management System  
-👁 Third-Eye – Visual Assistance System  
-🐦 Bird Species Identification (Hitachi)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shashwatsingh&show_icons=true&theme=radical" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatsingh&theme=highcontrast" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashwatsingh&theme=redical"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/shashwatsingh/shashwatsingh/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 🤝 Connect
-
-📧 singhshashwat1111@gmail.com  
-💼 https://linkedin.com/in/shashwat10  
-
----
-
-<p align="center">
-🔥 Keep Building. Keep Learning. Keep Growing.
-</p>
-<p align="center">
-<img src="https://github.com/Shashwat001772/Shashwat001772/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
+</div>
